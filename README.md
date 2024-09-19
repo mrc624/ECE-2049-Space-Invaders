@@ -1,4 +1,4 @@
-Matthew Cloutier
+Matthew Cloutier & Michael D'Angelo
 ECE2049
 
 This program is intended to run on an MSP430 Launchpad with an LCD screen.
